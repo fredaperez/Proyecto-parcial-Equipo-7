@@ -1,4 +1,4 @@
-from db import DatabaseManager
+from BD import DatabaseManager
 from neo_config import uri, user, password
 
 # Conexión a Neo4j
